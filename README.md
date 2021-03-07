@@ -1,6 +1,6 @@
 **FreeCodeCamp Project**- Information Security and Quality Assurance: Imperial Converter
 ------
-[![Run on Repl.it](ImperialConverterApp)](https://alertabandonedlivecd.alexintheworld.repl.co/)
+[Imperial Converter App](https://alertabandonedlivecd.alexintheworld.repl.co/)
 
 *User Stories:*
 1. I will help prevent the client from trying to guess(sniff) the MIME type.
